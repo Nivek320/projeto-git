@@ -1,0 +1,7 @@
+qualquer coisa
+
+git clone -> Traz o repositorio da nuvem para o diretorio local
+
+git status -> ciclo de estado dos meus arquivos
+
+git add * -> Adiciona arquivo pro repositorio
